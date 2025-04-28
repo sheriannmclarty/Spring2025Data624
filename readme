@@ -1,0 +1,22 @@
+# ABC Beverage pH Prediction Project
+
+This repository contains the files and scripts for our Data 624 Project 2 assignment: 
+predicting pH values for beverage manufacturing processes.
+
+## Folder Structure
+- `data/` → Source datasets (e.g., StudentData.xlsx)
+- `scripts/` → R scripts and RMarkdown files for analysis
+- `output/` → Final pH prediction Excel files
+- `reports/` → Non-technical and technical report files
+
+## Team Members
+- PCA Analysis: Alex Ptacek
+- Linear Regression: Amanda Knudsen
+- Nonlinear Models: Curtis Elsasser
+- Decision-Based Modeling: Yana Rabkova
+- Rule-Based Modeling: Sheriann McLarty
+
+## Deliverables
+- Technical Report (RMarkdown + RPubs)
+- Non-Technical Business Report (Word)
+- Final pH Predictions (Excel)
